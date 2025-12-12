@@ -1,0 +1,14 @@
+C:\Users\jr2al\source\repos\final projecr\bin\Debug\net10.0\final projecr.exe
+C:\Users\jr2al\source\repos\final projecr\bin\Debug\net10.0\final projecr.deps.json
+C:\Users\jr2al\source\repos\final projecr\bin\Debug\net10.0\final projecr.runtimeconfig.json
+C:\Users\jr2al\source\repos\final projecr\bin\Debug\net10.0\final projecr.dll
+C:\Users\jr2al\source\repos\final projecr\bin\Debug\net10.0\final projecr.pdb
+C:\Users\jr2al\source\repos\final projecr\obj\Debug\net10.0\final projecr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jr2al\source\repos\final projecr\obj\Debug\net10.0\final projecr.AssemblyInfoInputs.cache
+C:\Users\jr2al\source\repos\final projecr\obj\Debug\net10.0\final projecr.AssemblyInfo.cs
+C:\Users\jr2al\source\repos\final projecr\obj\Debug\net10.0\final projecr.csproj.CoreCompileInputs.cache
+C:\Users\jr2al\source\repos\final projecr\obj\Debug\net10.0\final projecr.dll
+C:\Users\jr2al\source\repos\final projecr\obj\Debug\net10.0\refint\final projecr.dll
+C:\Users\jr2al\source\repos\final projecr\obj\Debug\net10.0\final projecr.pdb
+C:\Users\jr2al\source\repos\final projecr\obj\Debug\net10.0\final projecr.genruntimeconfig.cache
+C:\Users\jr2al\source\repos\final projecr\obj\Debug\net10.0\ref\final projecr.dll
